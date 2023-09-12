@@ -32,9 +32,9 @@ More dependencies are provided in **requirements.txt**.
 
 <h2> To Run </h2>
 
-Once the requirements are fulfilled, use this command to run Gapformer:
+Once the requirements are fulfilled, use this command to run:
 
-`python main.py`
+`sh xx.sh`
 
 <h2> Datasets </h2>
 
